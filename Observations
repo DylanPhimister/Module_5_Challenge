@@ -1,0 +1,7 @@
+Three Observations of this data:
+
+1. In the boxplot, Infubinol has an outlier near 40 on the Final Tumor Volume scale while its mean is at about 60.
+
+2. On the line plot for tumor volume vs. time point for a single mouse (l509) treated with Capomulin, at about the 20 day mark, it hits its highest tumor volume and then decreases right after. Eventually dropping to about 41 tumor volume at the 40 day mark.
+
+3. The correlation between mouse weight and the average tumor volume was calculated out to be 0.84. This is considered a strong correlation between the two and can infer that the more a mouse weighs, the bigger the average of the tumor will be.
